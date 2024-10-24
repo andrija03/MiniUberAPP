@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Andrija\\UberMiniApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA81491-4734-46EC-8A9E-AD419E1602A6}|UserService .Api\\UserService .Api.csproj|d:\\andrija\\uberminiapp\\userservice .api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA81491-4734-46EC-8A9E-AD419E1602A6}|UserService .Api\\UserService .Api.csproj|solutionrelative:userservice .api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E36B0A-115E-49EF-80AA-4AA132BBA556}|UserService.Infrastructure\\UserService.Infrastructure.csproj|d:\\andrija\\uberminiapp\\userservice.infrastructure\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E36B0A-115E-49EF-80AA-4AA132BBA556}|UserService.Infrastructure\\UserService.Infrastructure.csproj|solutionrelative:userservice.infrastructure\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA81491-4734-46EC-8A9E-AD419E1602A6}|UserService .Api\\UserService .Api.csproj|d:\\andrija\\uberminiapp\\userservice .api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA81491-4734-46EC-8A9E-AD419E1602A6}|UserService .Api\\UserService .Api.csproj|solutionrelative:userservice .api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CDE85F-13AD-498E-917B-520437FDB923}|UserService.Application\\UserService.Application.csproj|d:\\andrija\\uberminiapp\\userservice.application\\services\\createuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CDE85F-13AD-498E-917B-520437FDB923}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\services\\createuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CDE85F-13AD-498E-917B-520437FDB923}|UserService.Application\\UserService.Application.csproj|d:\\andrija\\uberminiapp\\userservice.application\\messaging\\kafkaprocuder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CDE85F-13AD-498E-917B-520437FDB923}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\messaging\\kafkaprocuder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553C1245-EEFF-49A9-9728-9A423606FD2C}|DriverService.Application\\DriverService.Application.csproj|d:\\andrija\\uberminiapp\\driverservice.application\\commands\\createdrivercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553C1245-EEFF-49A9-9728-9A423606FD2C}|DriverService.Application\\DriverService.Application.csproj|solutionrelative:driverservice.application\\commands\\createdrivercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\UserService.Infrastructure\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "UserService.Infrastructure\\Services\\DriverService.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\UserService.Infrastructure\\Services\\DriverService.cs",
+              "RelativeToolTip": "UserService.Infrastructure\\Services\\DriverService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:26:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\UserService .Api\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService .Api\\UserController.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\UserService .Api\\UserController.cs",
+              "RelativeToolTip": "UserService .Api\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:21:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\UserService .Api\\Program.cs",
+              "RelativeDocumentMoniker": "UserService .Api\\Program.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\UserService .Api\\Program.cs",
+              "RelativeToolTip": "UserService .Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:20:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserService.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\UserService.Application\\Services\\CreateUserService.cs",
+              "RelativeDocumentMoniker": "UserService.Application\\Services\\CreateUserService.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\UserService.Application\\Services\\CreateUserService.cs",
+              "RelativeToolTip": "UserService.Application\\Services\\CreateUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:19:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaProcuder.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\UserService.Application\\Messaging\\KafkaProcuder.cs",
+              "RelativeDocumentMoniker": "UserService.Application\\Messaging\\KafkaProcuder.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\UserService.Application\\Messaging\\KafkaProcuder.cs",
+              "RelativeToolTip": "UserService.Application\\Messaging\\KafkaProcuder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:19:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDriverCommand.cs",
+              "DocumentMoniker": "D:\\Andrija\\UberMiniApp\\DriverService.Application\\Commands\\CreateDriverCommand.cs",
+              "RelativeDocumentMoniker": "DriverService.Application\\Commands\\CreateDriverCommand.cs",
+              "ToolTip": "D:\\Andrija\\UberMiniApp\\DriverService.Application\\Commands\\CreateDriverCommand.cs",
+              "RelativeToolTip": "DriverService.Application\\Commands\\CreateDriverCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:05:39.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

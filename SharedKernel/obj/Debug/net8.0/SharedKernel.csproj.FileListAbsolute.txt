@@ -1,0 +1,12 @@
+D:\Andrija\UberMiniApp\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+D:\Andrija\UberMiniApp\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+D:\Andrija\UberMiniApp\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.AssemblyReference.cache
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+D:\Andrija\UberMiniApp\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

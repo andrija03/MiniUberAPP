@@ -1,0 +1,17 @@
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\EmployeeService.Application.deps.json
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\EmployeeService.Application.dll
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\EmployeeService.Application.pdb
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\EmployeeService.Domain.dll
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\SharedKernel.dll
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\EmployeeService.Domain.pdb
+D:\Andrija\UberMiniApp\EmployeeService.Application\bin\Debug\net8.0\SharedKernel.pdb
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.csproj.AssemblyReference.cache
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.AssemblyInfoInputs.cache
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.AssemblyInfo.cs
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.csproj.CoreCompileInputs.cache
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\Employee.D9B3E978.Up2Date
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.dll
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\refint\EmployeeService.Application.dll
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\EmployeeService.Application.pdb
+D:\Andrija\UberMiniApp\EmployeeService.Application\obj\Debug\net8.0\ref\EmployeeService.Application.dll

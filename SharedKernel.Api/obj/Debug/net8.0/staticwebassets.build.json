@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YcVY8hhcYJkuq0LXMu7DlRMJtJoipAhZzd+W6dW3YBw=",
+  "Source": "SharedKernel.Api",
+  "BasePath": "_content/SharedKernel.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

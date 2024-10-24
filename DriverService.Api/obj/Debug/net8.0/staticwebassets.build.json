@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZSf/HhL38JlLQ6SRpjHU5mh7po494IQw6vme8n3jnEU=",
+  "Source": "DriverService.Api",
+  "BasePath": "_content/DriverService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\DriverService.Application.deps.json
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\DriverService.Application.dll
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\DriverService.Application.pdb
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\DriverService.Domain.dll
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\SharedKernel.dll
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\DriverService.Domain.pdb
+D:\Andrija\UberMiniApp\DriverService.Application\bin\Debug\net8.0\SharedKernel.pdb
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.csproj.AssemblyReference.cache
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.AssemblyInfoInputs.cache
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.AssemblyInfo.cs
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.csproj.CoreCompileInputs.cache
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverSe.9149199D.Up2Date
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.dll
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\refint\DriverService.Application.dll
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\DriverService.Application.pdb
+D:\Andrija\UberMiniApp\DriverService.Application\obj\Debug\net8.0\ref\DriverService.Application.dll

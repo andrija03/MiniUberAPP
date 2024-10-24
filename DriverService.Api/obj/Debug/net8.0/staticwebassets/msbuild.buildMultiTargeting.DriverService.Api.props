@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DriverService.Api.props" />
+</Project>
